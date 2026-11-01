@@ -1,0 +1,13 @@
+CC0 1.0 Universal (Public Domain Dedication)
+
+The compilation, the verse-keyed data (data/jesus-words.json and the files it is
+built from), the build and verification tooling, and the PDF typesetting in this
+repository are released under CC0 1.0 Universal:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, the compiler has waived all copyright and
+related or neighbouring rights to this work.
+
+The scripture text itself is the World English Bible (WEB), which is in the
+public domain (https://ebible.org/web/). No copyrighted translation was used.
