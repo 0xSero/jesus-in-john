@@ -318,7 +318,7 @@ with the narrator, the crowds, the disciples and the Father's voice from heaven 
 
 | | |
 |:--|:--|
-| **Read on a phone** | [`jesus-in-john.pdf`](jesus-in-john.pdf) — 100 × 200 mm, phone-shaped pages ([latest release download](../../releases/latest)) |
+| **Read on a phone** | [`jesus-in-john.pdf`](jesus-in-john.pdf) — 100 × 200 mm, phone-shaped pages ([direct download](https://github.com/0xSero/jesus-in-john/releases/latest/download/jesus-in-john.pdf)) |
 | **Read on GitHub** | [`jesus-in-john.md`](jesus-in-john.md) — the same text in markdown |
 | **Reuse the data** | [`data/jesus-words.json`](data/jesus-words.json) — verse-keyed JSON |
 | **Translation** | World English Bible (public domain, modern English) |
